@@ -1,4 +1,4 @@
-# Healthcare_Management_System
+# Healthcare Management System
  Healthcare Management System using PHP, MySQL, HTML, CSS and BootStrap
  
  The project has following functionalities :
